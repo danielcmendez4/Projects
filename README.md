@@ -19,9 +19,9 @@ This project is most likely a rite of passage for everyone interested in compute
 
 Despite the fact that we know who survived the Titanic, the project may still be used to apply significant ideas in machine learning and data science. So there you have it!
 
-Predict which passengers survived the Titanic (Jack died)
+**objectives:** Predict which passengers survived the Titanic (Jack died)
 
-Techniques that I did:
+**Techniques that I did:**
 
 - Pandas, matplotlib, numpy
 - Polynomial regression, cross-validation, k-nearest neighbours
