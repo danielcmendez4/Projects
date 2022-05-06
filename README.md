@@ -7,7 +7,7 @@ This project is most likely a rite of passage for everyone interested in compute
 - Pclass - The ticket class of the traveler. One, two, or three.
 - Sex - Sex of a passenger (male or female)
 - Passenger Age - The passenger's age.
-= Sibsp - The amount of siblings or spouses on the Titanic.
+- Sibsp - The amount of siblings or spouses on the Titanic.
 - Parch - The overall amount of parents and children on board the Titanic.
 - Ticket - The quantity of a passenger's ticket.
 - Fare - The cost of a passenger's ticket.
@@ -16,3 +16,19 @@ This project is most likely a rite of passage for everyone interested in compute
 - C means Cherbourg 
 - Q means Queenstown
 - S  means Southampton 
+
+Despite the fact that we know who survived the Titanic, the project may still be used to apply significant ideas in machine learning and data science. So there you have it!
+
+Predict which passengers survived the Titanic (Jack died)
+
+Techniques that I did:
+
+Pandas, matplotlib, numpy
+Scikit-learn
+Logistic regression, cross-validation, k-nearest neighbours
+Regular expressions
+Heatmap
+Recursive feature elimination
+Hyperparameter optimization
+Grid search
+Random forest classifier
