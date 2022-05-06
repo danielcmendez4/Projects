@@ -23,12 +23,12 @@ Predict which passengers survived the Titanic (Jack died)
 
 Techniques that I did:
 
-Pandas, matplotlib, numpy
-Scikit-learn
-Logistic regression, cross-validation, k-nearest neighbours
-Regular expressions
-Heatmap
-Recursive feature elimination
-Hyperparameter optimization
-Grid search
-Random forest classifier
+- Pandas, matplotlib, numpy
+- Polynomial regression, cross-validation, k-nearest neighbours
+- Recursive feature elimination
+- Hyperparameter optimization
+- Regular expressions
+- Scikit-learn
+- Heatmap
+- Random forest classifier
+- Grid search
